@@ -1,0 +1,15 @@
+{
+  "rescue": 850,
+  "adoption": 425,
+  "vet": 650,
+  "release": 490,
+  "meal1": "2 meals",
+  "meal1p": 1500,
+  "meal2": "2 meals + Snacks",
+  "meal2p": 2000,
+  "animals": {
+    "Dogs": 90,
+    "Cats": 9,
+    "Calves": 1
+  }
+}
